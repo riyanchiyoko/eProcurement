@@ -1,4 +1,4 @@
-# Test
-This is readme.
+# Introduction
+The project is using the DDD approach.
 
-## Struktur Package
+## Package Structure
